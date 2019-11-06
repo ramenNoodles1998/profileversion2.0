@@ -1,10 +1,38 @@
+  
 .Header{
     font-family: 'Righteous';
     background-color: #c4d3ff ;
     color: whitesmoke;
-    max-height: 100%;
-    font-size: 50px;
+   
+}
+.Body{
+    font-family: 'Overpass';
+    padding: 1.5em;
+    background-color: #c4d3ff;
+    color: whitesmoke;
+}
+.Footer{
+    font-family: 'Righteous';
+    background-color: #1c2234 ;
+    color: whitesmoke;
+}
+a{
+    color: #c4d3ff; 
+    font-weight: bold;
     
-    
+}
+.Footer a:link{
+    text-decoration: none;
+}
+.Footer a:hover{
+    color: #e2e9ff;
+    text-shadow: 2px 2px #000000;
+}
+.Projects{
+    font-family: 'Righteous';
+    background-color: #c4d3ff ;
+    color: whitesmoke;
+    font-size: 3em;
+
 }
 
