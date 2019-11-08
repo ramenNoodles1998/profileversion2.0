@@ -17,7 +17,11 @@
     color: whitesmoke;
 }
 a{
+<<<<<<< HEAD
+    color: #1c2234; 
+=======
     color: #c4d3ff; 
+>>>>>>> 165a2071d2a593bc74674f1a2f661734c348f24b
     font-weight: bold;
     
 }
@@ -35,4 +39,9 @@ a{
     font-size: 3em;
 
 }
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 165a2071d2a593bc74674f1a2f661734c348f24b
 
