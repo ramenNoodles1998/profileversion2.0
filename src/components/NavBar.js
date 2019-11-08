@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+import React from 'react'
+ class NavBar extends React.Component{
+   constructor(){
+     super()
+     this.state={}
+   }
+   render(){
+    return(
+      <div>
+        
+      </div>   
+    )
+  }
+    
+}
+=======
 import React from 'react'
 function NavBar(){
     return(
@@ -18,4 +35,5 @@ function NavBar(){
         
     )
 }
+>>>>>>> 165a2071d2a593bc74674f1a2f661734c348f24b
 export default NavBar
